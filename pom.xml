@@ -10,6 +10,7 @@
 	<groupId>com.codewithanuj.spring.pdfgenerator</groupId>
 	<artifactId>SpringBootPDFGenerator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>SpringBootPDFGenerator</name>
 	<description>Demo project for Spring Boot SpringBootPDFGenerator</description>
 	<properties>
